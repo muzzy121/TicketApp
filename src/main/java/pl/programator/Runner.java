@@ -14,11 +14,11 @@ public class Runner {
         TramTicket tramTicket = new TramTicket();
         TrainTicket trainTicket = new TrainTicket();
 
-        final HashMap<Ticket, Integer> ticketNumbers = new HashMap<Ticket, Integer>();
+        final HashMap<Ticket, Integer> ticketNumbers = new HashMap<>();
         ticketNumbers.put(busTicket, 1);
         ticketNumbers.put(tramTicket, 1);
         ticketNumbers.put(trainTicket, 1);
     }
 
-    
+
 }
