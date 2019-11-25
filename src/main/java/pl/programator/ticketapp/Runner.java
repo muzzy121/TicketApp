@@ -1,12 +1,11 @@
-package pl.programator;
+package pl.programator.ticketapp;
 
-import pl.programator.tickets.BusTicket;
-import pl.programator.tickets.Ticket;
-import pl.programator.tickets.TrainTicket;
-import pl.programator.tickets.TramTicket;
+import pl.programator.ticketapp.tickets.BusTicket;
+import pl.programator.ticketapp.tickets.baseclass.Ticket;
+import pl.programator.ticketapp.tickets.TrainTicket;
+import pl.programator.ticketapp.tickets.TramTicket;
 
 import java.util.HashMap;
-import java.util.Set;
 
 public class Runner {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pl.programator.utils;
+package pl.programator.ticketapp.utils;
 
 public class TicketMachine {
     void sellTicket(){}

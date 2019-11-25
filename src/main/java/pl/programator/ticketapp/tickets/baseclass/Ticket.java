@@ -1,4 +1,6 @@
-package pl.programator.tickets;
+package pl.programator.ticketapp.tickets.baseclass;
+
+import pl.programator.ticketapp.enums.TicketType;
 
 public abstract class Ticket {
     //TODO try to implement algorithm with target and number of km

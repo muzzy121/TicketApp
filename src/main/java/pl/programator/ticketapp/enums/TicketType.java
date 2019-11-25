@@ -1,4 +1,4 @@
-package pl.programator.tickets;
+package pl.programator.ticketapp.enums;
 
 public enum TicketType {
     BUS(2.5d),
